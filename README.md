@@ -13,8 +13,7 @@ O dataset consiste em dois arquivos .csv
   <li>construction_data_tasks</li>
   <li>construction_data_forms</li>
 </ul>
-<br>
-<br>
+
 Cada um desses arquivos contém dados referentes a projetos de canteiros de obras. 
 <br>
 <br>
